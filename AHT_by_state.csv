@@ -1,0 +1,213 @@
+﻿state,submission_type,transaction_type_group,transaction_count,weighted_aht
+AK,Manual,Endorsement,26,2.00
+AK,Manual,New Policy,73,2.00
+AK,Manual,Renewal Policy,21,2.00
+AL,Batch,Endorsement,193,2.00
+AL,Manual,Endorsement,30,4.00
+AL,Batch,New Policy,106,2.00
+AL,Manual,New Policy,7,4.00
+AL,Batch,Renewal Policy,72,2.00
+AR,Manual,Endorsement,186,2.00
+AR,Manual,New Policy,130,2.00
+AR,Manual,Renewal Policy,90,2.00
+AZ,Batch,Endorsement,"1,172",1.30
+AZ,Manual,Endorsement,219,1.90
+AZ,Batch,New Policy,278,2.00
+AZ,Manual,New Policy,223,2.50
+AZ,Batch,Renewal Policy,52,2.00
+AZ,Manual,Renewal Policy,132,3.00
+CA,Batch,Endorsement,"4,311",5.00
+CA,Manual,Endorsement,370,5.00
+CA,Batch,New Policy,"7,040",3.00
+CA,Manual,New Policy,197,16.50
+CA,Batch,Renewal Policy,"1,587",5.00
+CA,Manual,Renewal Policy,6,14.00
+CO,Batch,Endorsement,"1,835",0.54
+CO,Manual,Endorsement,102,1.15
+CO,Batch,New Policy,487,1.50
+CO,Manual,New Policy,78,2.00
+CO,Batch,Renewal Policy,282,1.00
+CO,Manual,Renewal Policy,43,2.00
+CT,Manual,Endorsement,171,3.00
+CT,Manual,New Policy,806,3.00
+CT,Manual,Renewal Policy,139,3.00
+DC,Manual,Endorsement,87,2.00
+DC,Manual,New Policy,59,2.00
+DC,Manual,Renewal Policy,42,2.00
+DE,Manual,Endorsement,163,3.00
+DE,Manual,New Policy,119,3.00
+DE,Manual,Renewal Policy,116,3.00
+FL,Batch,Endorsement,"2,578",1.00
+FL,Manual,Endorsement,318,0.81
+FL,Batch,New Policy,"2,505",0.86
+FL,Manual,New Policy,167,4.00
+FL,Batch,Renewal Policy,982,2.00
+FL,Manual,Renewal Policy,39,3.00
+GA,Batch,Endorsement,869,2.00
+GA,Manual,Endorsement,263,1.88
+GA,Batch,New Policy,463,1.96
+GA,Manual,New Policy,126,3.75
+GA,Batch,Renewal Policy,322,2.00
+GA,Manual,Renewal Policy,71,2.66
+HI,Manual,Endorsement,200,3.00
+HI,Manual,New Policy,61,3.00
+HI,Manual,Renewal Policy,95,3.00
+IA,Manual,Endorsement,1,2.00
+IA,Manual,New Policy,2,2.00
+IA,Manual,Renewal Policy,3,2.00
+IL,Batch,Endorsement,"1,005",1.00
+IL,Manual,Endorsement,202,2.00
+IL,Batch,New Policy,927,1.32
+IL,Manual,New Policy,91,1.40
+IL,Batch,Renewal Policy,355,3.00
+IL,Manual,Renewal Policy,48,1.40
+IN,Manual,Endorsement,421,2.00
+IN,Manual,New Policy,243,2.00
+IN,Manual,Renewal Policy,133,2.00
+KS,Manual,Endorsement,20,2.00
+KS,Manual,New Policy,51,2.00
+KY,Batch,Endorsement,218,3.00
+KY,Manual,Endorsement,2,8.00
+KY,Batch,New Policy,606,4.00
+KY,Manual,New Policy,10,9.00
+KY,Batch,Renewal Policy,271,4.00
+KY,Manual,Renewal Policy,2,9.00
+LA,Manual,Endorsement,371,2.00
+LA,Manual,New Policy,422,2.00
+LA,Manual,Renewal Policy,119,2.00
+MA,Manual,Endorsement,116,7.50
+MA,Manual,New Policy,266,7.50
+MA,Manual,Renewal Policy,281,7.50
+MD,Manual,Endorsement,429,8.00
+MD,Manual,New Policy,264,8.00
+MD,Manual,Renewal Policy,208,8.00
+ME,Manual,Endorsement,182,2.00
+ME,Manual,New Policy,107,2.00
+ME,Manual,Renewal Policy,100,2.00
+MI,Manual,Endorsement,190,1.00
+MI,Manual,New Policy,73,2.00
+MI,Manual,Renewal Policy,72,2.00
+MN,Manual,Endorsement,260,6.00
+MN,Manual,New Policy,272,6.00
+MN,Manual,Renewal Policy,147,6.00
+MO,Batch,Endorsement,412,4.00
+MO,Batch,New Policy,296,4.00
+MO,Manual,New Policy,3,5.00
+MO,Batch,Renewal Policy,173,4.00
+MO,Manual,Renewal Policy,2,5.00
+MS,Batch,Endorsement,31,3.00
+MS,Manual,Endorsement,107,4.00
+MS,Batch,New Policy,66,3.00
+MS,Manual,New Policy,244,4.00
+MS,Batch,Renewal Policy,3,3.00
+MS,Manual,Renewal Policy,42,4.00
+MT,Manual,Endorsement,181,3.00
+MT,Manual,New Policy,89,7.50
+MT,Manual,Renewal Policy,58,7.50
+NC,Batch,Endorsement,575,1.81
+NC,Manual,Endorsement,337,2.86
+NC,Batch,New Policy,313,1.00
+NC,Manual,New Policy,66,4.55
+NC,Batch,Renewal Policy,134,5.00
+NC,Manual,Renewal Policy,77,2.00
+ND,Manual,Endorsement,39,5.20
+ND,Manual,New Policy,15,5.20
+ND,Manual,Renewal Policy,27,5.20
+NE,Manual,Endorsement,127,2.00
+NE,Manual,New Policy,93,2.00
+NE,Manual,Renewal Policy,64,2.00
+NH,Manual,Endorsement,116,2.00
+NH,Manual,New Policy,40,2.00
+NH,Manual,Renewal Policy,63,2.00
+NJ,Batch,Endorsement,430,3.00
+NJ,Manual,Endorsement,306,4.28
+NJ,Batch,New Policy,850,1.88
+NJ,Manual,New Policy,105,4.17
+NJ,Batch,Renewal Policy,425,1.41
+NJ,Manual,Renewal Policy,39,3.00
+NM,Manual,Endorsement,191,2.00
+NM,Manual,New Policy,207,2.00
+NM,Manual,Renewal Policy,54,2.00
+NV,Manual,Endorsement,290,5.00
+NV,Manual,New Policy,182,5.00
+NV,Manual,Renewal Policy,107,5.00
+NY,Manual,Endorsement,995,3.50
+NY,Batch,New Policy,"1,873",3.50
+NY,Manual,New Policy,"4,051",10.00
+NY,Batch,Renewal Policy,"1,062",3.50
+NY,Manual,Renewal Policy,151,10.00
+OH,Batch,Endorsement,468,1.00
+OH,Manual,Endorsement,9,2.00
+OH,Batch,New Policy,210,1.00
+OH,Manual,New Policy,11,2.00
+OH,Batch,Renewal Policy,224,1.00
+OH,Manual,Renewal Policy,3,3.50
+OK,Batch,Endorsement,204,2.00
+OK,Manual,Endorsement,82,3.00
+OK,Batch,New Policy,229,2.00
+OK,Manual,New Policy,383,4.00
+OK,Batch,Renewal Policy,68,2.00
+OK,Manual,Renewal Policy,40,4.00
+OR,Batch,Endorsement,52,3.00
+OR,Manual,Endorsement,260,4.00
+OR,Batch,New Policy,180,1.67
+OR,Manual,New Policy,"1,106",1.00
+OR,Batch,Renewal Policy,60,5.50
+OR,Manual,Renewal Policy,107,2.60
+PA,Manual,Endorsement,755,2.00
+PA,Batch,New Policy,579,6.00
+PA,Manual,New Policy,923,3.33
+PA,Batch,Renewal Policy,480,5.00
+PA,Manual,Renewal Policy,135,5.00
+RI,Manual,Endorsement,126,2.00
+RI,Manual,New Policy,69,2.00
+RI,Manual,Renewal Policy,71,2.00
+SC,Batch,Endorsement,143,2.00
+SC,Manual,Endorsement,457,2.00
+SC,Batch,New Policy,62,3.00
+SC,Manual,New Policy,184,6.00
+SC,Manual,Renewal Policy,102,2.00
+SD,Batch,Endorsement,53,1.00
+SD,Manual,Endorsement,14,2.00
+SD,Batch,New Policy,35,1.00
+SD,Manual,New Policy,26,2.00
+SD,Batch,Renewal Policy,17,1.00
+SD,Manual,Renewal Policy,12,2.00
+TN,Batch,Endorsement,571,0.54
+TN,Manual,Endorsement,133,2.00
+TN,Batch,New Policy,269,1.80
+TN,Manual,New Policy,72,2.00
+TN,Batch,Renewal Policy,196,1.80
+TN,Manual,Renewal Policy,22,1.60
+TX,Batch,Endorsement,"2,265",3.00
+TX,Manual,Endorsement,317,3.00
+TX,Batch,New Policy,"6,377",2.03
+TX,Manual,New Policy,124,4.62
+TX,Batch,Renewal Policy,"1,057",2.50
+TX,Manual,Renewal Policy,10,5.00
+VA,Manual,Endorsement,375,3.18
+VA,Manual,New Policy,264,3.18
+VA,Manual,Renewal Policy,169,3.18
+VI,Manual,New Policy,2,2.00
+VI,Manual,Renewal Policy,5,2.00
+VT,Manual,Endorsement,79,3.18
+VT,Manual,New Policy,15,3.18
+VT,Manual,Renewal Policy,32,3.18
+WA,Batch,Endorsement,202,2.00
+WA,Manual,Endorsement,383,3.00
+WA,Batch,New Policy,491,3.75
+WA,Manual,New Policy,293,6.00
+WA,Batch,Renewal Policy,342,3.33
+WA,Manual,Renewal Policy,163,4.29
+WI,Manual,Endorsement,1,1.00
+WI,Manual,New Policy,1,1.00
+WI,Manual,Renewal Policy,8,1.00
+WV,Manual,Endorsement,61,3.00
+WV,Manual,New Policy,46,1.00
+WV,Manual,Renewal Policy,51,1.00
+WY,Batch,Endorsement,92,1.00
+WY,Manual,Endorsement,16,2.00
+WY,Batch,New Policy,52,1.00
+WY,Manual,New Policy,10,2.00
+WY,Batch,Renewal Policy,41,1.00
+WY,Manual,Renewal Policy,9,2.00
