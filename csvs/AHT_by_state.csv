@@ -1,0 +1,213 @@
+﻿state,submission_type,transaction_type_group,transaction_count,transaction_share,weighted_aht
+AK,Manual,Endorsement,26,0.000340917,2
+AK,Manual,New Policy,73,0.000957189,2
+AK,Manual,Renewal Policy,21,0.000275356,2
+AL,Batch,Endorsement,193,0.00253065,2
+AL,Manual,Endorsement,30,0.000393365,4
+AL,Batch,New Policy,106,0.001389891,2
+AL,Manual,New Policy,7,9.17852E-05,4
+AL,Batch,Renewal Policy,72,0.000944077,2
+AR,Manual,Endorsement,186,0.002438864,2
+AR,Manual,New Policy,130,0.001704583,2
+AR,Manual,Renewal Policy,90,0.001180096,2
+AZ,Batch,Endorsement,"1,172",0.015367469,1.3
+AZ,Manual,Endorsement,219,0.002871566,1.9
+AZ,Batch,New Policy,278,0.003645185,2
+AZ,Manual,New Policy,223,0.002924015,2.5
+AZ,Batch,Renewal Policy,52,0.000681833,2
+AZ,Manual,Renewal Policy,132,0.001730807,3
+CA,Batch,Endorsement,"4,311",0.056526585,5
+CA,Manual,Endorsement,370,0.004851505,5
+CA,Batch,New Policy,"7,040",0.09230971,3
+CA,Manual,New Policy,197,0.002583098,16.5
+CA,Batch,Renewal Policy,"1,587",0.020809021,5
+CA,Manual,Renewal Policy,6,7.8673E-05,14
+CO,Batch,Endorsement,"1,835",0.02406084,0.54
+CO,Manual,Endorsement,102,0.001337442,1.15
+CO,Batch,New Policy,487,0.006385629,1.5
+CO,Manual,New Policy,78,0.00102275,2
+CO,Batch,Renewal Policy,282,0.003697633,1
+CO,Manual,Renewal Policy,43,0.000563824,2
+CT,Manual,Endorsement,171,0.002242182,3
+CT,Manual,New Policy,806,0.010568413,3
+CT,Manual,Renewal Policy,139,0.001822592,3
+DC,Manual,Endorsement,87,0.001140759,2
+DC,Manual,New Policy,59,0.000773618,2
+DC,Manual,Renewal Policy,42,0.000550711,2
+DE,Manual,Endorsement,163,0.002137284,3
+DE,Manual,New Policy,119,0.001560349,3
+DE,Manual,Renewal Policy,116,0.001521012,3
+FL,Batch,Endorsement,"2,578",0.033803186,1
+FL,Manual,Endorsement,318,0.004169672,0.81
+FL,Batch,New Policy,"2,505",0.032845998,0.86
+FL,Manual,New Policy,167,0.002189733,4
+FL,Batch,Renewal Policy,982,0.012876156,2
+FL,Manual,Renewal Policy,39,0.000511375,3
+GA,Batch,Endorsement,869,0.01139448,2
+GA,Manual,Endorsement,263,0.003448502,1.88
+GA,Batch,New Policy,463,0.006070937,1.96
+GA,Manual,New Policy,126,0.001652134,3.75
+GA,Batch,Renewal Policy,322,0.00422212,2
+GA,Manual,Renewal Policy,71,0.000930964,2.66
+HI,Manual,Endorsement,200,0.002622435,3
+HI,Manual,New Policy,61,0.000799843,3
+HI,Manual,Renewal Policy,95,0.001245657,3
+IA,Manual,Endorsement,1,1.31122E-05,2
+IA,Manual,New Policy,2,2.62243E-05,2
+IA,Manual,Renewal Policy,3,3.93365E-05,2
+IL,Batch,Endorsement,"1,005",0.013177736,1
+IL,Manual,Endorsement,202,0.002648659,2
+IL,Batch,New Policy,927,0.012154986,1.32
+IL,Manual,New Policy,91,0.001193208,1.4
+IL,Batch,Renewal Policy,355,0.004654822,3
+IL,Manual,Renewal Policy,48,0.000629384,1.4
+IN,Manual,Endorsement,421,0.005520226,2
+IN,Manual,New Policy,243,0.003186258,2
+IN,Manual,Renewal Policy,133,0.001743919,2
+KS,Manual,Endorsement,20,0.000262243,2
+KS,Manual,New Policy,51,0.000668721,2
+KY,Batch,Endorsement,218,0.002858454,3
+KY,Manual,Endorsement,2,2.62243E-05,8
+KY,Batch,New Policy,606,0.007945978,4
+KY,Manual,New Policy,10,0.000131122,9
+KY,Batch,Renewal Policy,271,0.003553399,4
+KY,Manual,Renewal Policy,2,2.62243E-05,9
+LA,Manual,Endorsement,371,0.004864617,2
+LA,Manual,New Policy,422,0.005533338,2
+LA,Manual,Renewal Policy,119,0.001560349,2
+MA,Manual,Endorsement,116,0.001521012,7.5
+MA,Manual,New Policy,266,0.003487838,7.5
+MA,Manual,Renewal Policy,281,0.003684521,7.5
+MD,Manual,Endorsement,429,0.005625123,8
+MD,Manual,New Policy,264,0.003461614,8
+MD,Manual,Renewal Policy,208,0.002727332,8
+ME,Manual,Endorsement,182,0.002386416,2
+ME,Manual,New Policy,107,0.001403003,2
+ME,Manual,Renewal Policy,100,0.001311217,2
+MI,Manual,Endorsement,190,0.002491313,1
+MI,Manual,New Policy,73,0.000957189,2
+MI,Manual,Renewal Policy,72,0.000944077,2
+MN,Manual,Endorsement,260,0.003409165,6
+MN,Manual,New Policy,272,0.003566512,6
+MN,Manual,Renewal Policy,147,0.00192749,6
+MO,Batch,Endorsement,412,0.005402216,4
+MO,Batch,New Policy,296,0.003881204,4
+MO,Manual,New Policy,3,3.93365E-05,5
+MO,Batch,Renewal Policy,173,0.002268406,4
+MO,Manual,Renewal Policy,2,2.62243E-05,5
+MS,Batch,Endorsement,31,0.000406477,3
+MS,Manual,Endorsement,107,0.001403003,4
+MS,Batch,New Policy,66,0.000865404,3
+MS,Manual,New Policy,244,0.003199371,4
+MS,Batch,Renewal Policy,3,3.93365E-05,3
+MS,Manual,Renewal Policy,42,0.000550711,4
+MT,Manual,Endorsement,181,0.002373304,3
+MT,Manual,New Policy,89,0.001166984,7.5
+MT,Manual,Renewal Policy,58,0.000760506,7.5
+NC,Batch,Endorsement,575,0.0075395,1.81
+NC,Manual,Endorsement,337,0.004418803,2.86
+NC,Batch,New Policy,313,0.004104111,1
+NC,Manual,New Policy,66,0.000865404,4.55
+NC,Batch,Renewal Policy,134,0.001757031,5
+NC,Manual,Renewal Policy,77,0.001009637,2
+ND,Manual,Endorsement,39,0.000511375,5.2
+ND,Manual,New Policy,15,0.000196683,5.2
+ND,Manual,Renewal Policy,27,0.000354029,5.2
+NE,Manual,Endorsement,127,0.001665246,2
+NE,Manual,New Policy,93,0.001219432,2
+NE,Manual,Renewal Policy,64,0.000839179,2
+NH,Manual,Endorsement,116,0.001521012,2
+NH,Manual,New Policy,40,0.000524487,2
+NH,Manual,Renewal Policy,63,0.000826067,2
+NJ,Batch,Endorsement,430,0.005638235,3
+NJ,Manual,Endorsement,306,0.004012325,4.28
+NJ,Batch,New Policy,850,0.011145348,1.88
+NJ,Manual,New Policy,105,0.001376778,4.17
+NJ,Batch,Renewal Policy,425,0.005572674,1.41
+NJ,Manual,Renewal Policy,39,0.000511375,3
+NM,Manual,Endorsement,191,0.002504425,2
+NM,Manual,New Policy,207,0.00271422,2
+NM,Manual,Renewal Policy,54,0.000708057,2
+NV,Manual,Endorsement,290,0.003802531,5
+NV,Manual,New Policy,182,0.002386416,5
+NV,Manual,Renewal Policy,107,0.001403003,5
+NY,Manual,Endorsement,995,0.013046614,3.5
+NY,Batch,New Policy,"1,873",0.024559103,3.5
+NY,Manual,New Policy,"4,051",0.05311742,10
+NY,Batch,Renewal Policy,"1,062",0.013925129,3.5
+NY,Manual,Renewal Policy,151,0.001979938,10
+OH,Batch,Endorsement,468,0.006136498,1
+OH,Manual,Endorsement,9,0.00011801,2
+OH,Batch,New Policy,210,0.002753557,1
+OH,Manual,New Policy,11,0.000144234,2
+OH,Batch,Renewal Policy,224,0.002937127,1
+OH,Manual,Renewal Policy,3,3.93365E-05,3.5
+OK,Batch,Endorsement,204,0.002674884,2
+OK,Manual,Endorsement,82,0.001075198,3
+OK,Batch,New Policy,229,0.003002688,2
+OK,Manual,New Policy,383,0.005021963,4
+OK,Batch,Renewal Policy,68,0.000891628,2
+OK,Manual,Renewal Policy,40,0.000524487,4
+OR,Batch,Endorsement,52,0.000681833,3
+OR,Manual,Endorsement,260,0.003409165,4
+OR,Batch,New Policy,180,0.002360191,1.67
+OR,Manual,New Policy,"1,106",0.014502065,1
+OR,Batch,Renewal Policy,60,0.00078673,5.5
+OR,Manual,Renewal Policy,107,0.001403003,2.6
+PA,Manual,Endorsement,755,0.009899692,2
+PA,Batch,New Policy,579,0.007591949,6
+PA,Manual,New Policy,923,0.012102537,3.33
+PA,Batch,Renewal Policy,480,0.006293844,5
+PA,Manual,Renewal Policy,135,0.001770144,5
+RI,Manual,Endorsement,126,0.001652134,2
+RI,Manual,New Policy,69,0.00090474,2
+RI,Manual,Renewal Policy,71,0.000930964,2
+SC,Batch,Endorsement,143,0.001875041,2
+SC,Manual,Endorsement,457,0.005992264,2
+SC,Batch,New Policy,62,0.000812955,3
+SC,Manual,New Policy,184,0.00241264,6
+SC,Manual,Renewal Policy,102,0.001337442,2
+SD,Batch,Endorsement,53,0.000694945,1
+SD,Manual,Endorsement,14,0.00018357,2
+SD,Batch,New Policy,35,0.000458926,1
+SD,Manual,New Policy,26,0.000340917,2
+SD,Batch,Renewal Policy,17,0.000222907,1
+SD,Manual,Renewal Policy,12,0.000157346,2
+TN,Batch,Endorsement,571,0.007487052,0.54
+TN,Manual,Endorsement,133,0.001743919,2
+TN,Batch,New Policy,269,0.003527175,1.8
+TN,Manual,New Policy,72,0.000944077,2
+TN,Batch,Renewal Policy,196,0.002569986,1.8
+TN,Manual,Renewal Policy,22,0.000288468,1.6
+TX,Batch,Endorsement,"2,265",0.029699076,3
+TX,Manual,Endorsement,317,0.004156559,3
+TX,Batch,New Policy,"6,377",0.083616338,2.03
+TX,Manual,New Policy,124,0.00162591,4.62
+TX,Batch,Renewal Policy,"1,057",0.013859569,2.5
+TX,Manual,Renewal Policy,10,0.000131122,5
+VA,Manual,Endorsement,375,0.004917065,3.18
+VA,Manual,New Policy,264,0.003461614,3.18
+VA,Manual,Renewal Policy,169,0.002215958,3.18
+VI,Manual,New Policy,2,2.62243E-05,2
+VI,Manual,Renewal Policy,5,6.55609E-05,2
+VT,Manual,Endorsement,79,0.001035862,3.18
+VT,Manual,New Policy,15,0.000196683,3.18
+VT,Manual,Renewal Policy,32,0.00041959,3.18
+WA,Batch,Endorsement,202,0.002648659,2
+WA,Manual,Endorsement,383,0.005021963,3
+WA,Batch,New Policy,491,0.006438078,3.75
+WA,Manual,New Policy,293,0.003841867,6
+WA,Batch,Renewal Policy,342,0.004484364,3.33
+WA,Manual,Renewal Policy,163,0.002137284,4.29
+WI,Manual,Endorsement,1,1.31122E-05,1
+WI,Manual,New Policy,1,1.31122E-05,1
+WI,Manual,Renewal Policy,8,0.000104897,1
+WV,Manual,Endorsement,61,0.000799843,3
+WV,Manual,New Policy,46,0.00060316,1
+WV,Manual,Renewal Policy,51,0.000668721,1
+WY,Batch,Endorsement,92,0.00120632,1
+WY,Manual,Endorsement,16,0.000209795,2
+WY,Batch,New Policy,52,0.000681833,1
+WY,Manual,New Policy,10,0.000131122,2
+WY,Batch,Renewal Policy,41,0.000537599,1
+WY,Manual,Renewal Policy,9,0.00011801,2
